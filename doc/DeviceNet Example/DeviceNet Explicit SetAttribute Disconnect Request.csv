@@ -1,0 +1,2 @@
+Index,System Time,Time Stamp,Channel,Direction,Frame ID,Type,Format,DLC,Data
+0,-,-,ch1,Send,0x050C,Data,Standard,0x05,x| 00 4C 10 00 01
